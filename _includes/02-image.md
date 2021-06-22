@@ -1,1 +1,1 @@
-![Chocolate]{https://es.wikipedia.org/wiki/Chocolate#/media/Archivo:Chocolate.jpg}
+![Profile picture]{Santiago_Morandi_ICIQ.jpeg}
