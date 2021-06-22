@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![chocolate](https://es.wikipedia.org/wiki/Chocolate#/media/Archivo:Chocolate.jpg)
 
 <br>
 
